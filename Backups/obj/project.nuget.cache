@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2HzDibqZ+KS/00rklq6UQQqK05qmN0w9C/0I6ptEQdSDMe697GBvBctNWOOR3jGFoqtkvH4jqNfmxK3o7Z7NaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Snake\\OneDrive - ITMO UNIVERSITY\\Рабочий стол\\12345\\Lab3\\Backups\\Backups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Snake\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Snake\\.nuget\\packages\\zio\\0.16.1\\zio.0.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

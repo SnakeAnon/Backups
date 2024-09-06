@@ -1,0 +1,24 @@
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\bin\Debug\net6.0\Backups.deps.json
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\bin\Debug\net6.0\Backups.dll
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\bin\Debug\net6.0\Backups.pdb
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\Backups.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\Backups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\Backups.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\Backups.AssemblyInfo.cs
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\Backups.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\Backups.dll
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\refint\Backups.dll
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\Backups.pdb
+C:\Users\admin\Desktop\xodors-master\Lab3\Backups\obj\Debug\net6.0\ref\Backups.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\bin\Debug\net6.0\Backups.deps.json
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\bin\Debug\net6.0\Backups.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\bin\Debug\net6.0\Backups.pdb
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\Backups.csproj.AssemblyReference.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\Backups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\Backups.AssemblyInfoInputs.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\Backups.AssemblyInfo.cs
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\Backups.csproj.CoreCompileInputs.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\Backups.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\refint\Backups.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\Backups.pdb
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab3\Backups\obj\Debug\net6.0\ref\Backups.dll
